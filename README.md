@@ -1,4 +1,4 @@
-Decision University Platform - AWS Refactor
+# Decision University Platform - AWS Refactor
 
 Decision University is a platform designed to assist prospective students in browsing and comparing universities using data from the Guardian University Rankings dataset. This application was initially created as a Python Flask API for a university project. The original version can be found on GitHub: decision-university-api.
 Purpose of the Refactor
