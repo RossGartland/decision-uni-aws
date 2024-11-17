@@ -1,0 +1,5566 @@
+[{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db51a"
+  },
+  "r2022": 1,
+  "r2021": 1,
+  "score": 100,
+  "course": 94,
+  "teaching": 92,
+  "feedback": 80,
+  "ratio": 10.1,
+  "spend": 10,
+  "tariff": 198,
+  "career": 93,
+  "continuation": 99,
+  "institution": "Oxford",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231348"
+    }
+  },
+  "updtTimestamp": null,
+  "uptdTimestamp": {
+    "$date": {
+      "$numberLong": "1668095159075"
+    }
+  },
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486aef"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658290"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [
+        "RossAngularTest1",
+        "conor_uni"
+      ],
+      "laughReactions": [
+        "JohnCoffeeMan1998"
+      ],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    },
+    {
+      "id": {
+        "$oid": "638b379fafb743692b914a55"
+      },
+      "username": "conor_uni",
+      "text": "This looks interesting...",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670068127667"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [
+        "conor_uni"
+      ],
+      "angryReactions": [
+        "RossAngularTest1"
+      ],
+      "userid": "638b3748afb743692b914a53",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1670174727943"
+        }
+      }
+    },
+    {
+      "id": {
+        "$oid": "638cdaf765664336c20b87d7"
+      },
+      "username": "Kris_Kringle",
+      "text": "I'm not a big fan of this uni tbh.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175479326"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdb0665664336c20b87d8"
+      },
+      "username": "the_real_tom_hanks",
+      "text": "Yes, I agree!",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175494031"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdb1165664336c20b87d9"
+      },
+      "username": "steve_job_apple",
+      "text": "I disagree, I think this place is very good.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175505873"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdb2465664336c20b87da"
+      },
+      "username": "football_mad_1999",
+      "text": "It is hard work but rewarding.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175524847"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdb4e65664336c20b87db"
+      },
+      "username": "paul_allen_microsoft",
+      "text": "Does anyone know what the comp sci course is like here?",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175566435"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "belfast_student_18"
+      ],
+      "laughReactions": [
+        "RossAngularTest1"
+      ],
+      "angryReactions": [
+        "JohnCoffeeMan1998"
+      ],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdb5e65664336c20b87dc"
+      },
+      "username": "patrick_bateman_ap",
+      "text": "Computer Science very good here.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175582548"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "RossAngularTest1",
+        "JohnCoffeeMan1998"
+      ],
+      "laughReactions": [
+        "belfast_student_18",
+        "darren_man_1996"
+      ],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdb6965664336c20b87dd"
+      },
+      "username": "clint_eastwood_fan",
+      "text": "I highly recommend.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175593593"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "JohnCoffeeMan1998"
+      ],
+      "laughReactions": [],
+      "angryReactions": [
+        "RossAngularTest1",
+        "belfast_student_18",
+        "darren_man_1996"
+      ],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdba865664336c20b87de"
+      },
+      "username": "musk_elon_tesla1",
+      "text": "All undergraduate courses are full-time, and on average students spend around 40 hours a week studying.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175656751"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "belfast_student_18"
+      ],
+      "laughReactions": [
+        "JohnCoffeeMan1998",
+        "darren_man_1996"
+      ],
+      "angryReactions": [
+        "RossAngularTest1"
+      ],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cdbbf65664336c20b87df"
+      },
+      "username": "bill_gates_1968",
+      "text": "The University of Oxford is a collegiate research university in Oxford, England.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175679157"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "RossAngularTest1",
+        "JohnCoffeeMan1998",
+        "belfast_student_18",
+        "darren_man_1996"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638ce16b65664336c20b87ea"
+      },
+      "username": "rossg",
+      "text": "This looks great.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670177131863"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "testAccount"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638ce10d65664336c20b87e5"
+    },
+    {
+      "id": {
+        "$oid": "638f31b498b7db5dd94e308f"
+      },
+      "username": "RossAngularTest1",
+      "text": "test comment",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670328756156"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638f31ee98b7db5dd94e3091"
+      },
+      "username": "RossAngularTest1",
+      "text": "test comment",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670328814451"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638f32884b6b89ceb912f49f"
+      },
+      "username": "RossAngularTest1",
+      "text": "ok",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670328968066"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1670328968145"
+        }
+      }
+    },
+    {
+      "id": {
+        "$oid": "638f330dac576322326780b0"
+      },
+      "username": "RossAngularTest1",
+      "text": "ok",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670329101714"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1670329101791"
+        }
+      }
+    },
+    {
+      "id": {
+        "$oid": "638f3363ac576322326780b2"
+      },
+      "username": "RossAngularTest1",
+      "text": "ok",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670329187781"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1670329187858"
+        }
+      }
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db51b"
+  },
+  "r2022": 2,
+  "r2021": 3,
+  "score": 97.8,
+  "course": 0,
+  "teaching": 0,
+  "feedback": 0,
+  "ratio": 11.4,
+  "spend": 9.9,
+  "tariff": 206,
+  "career": 93,
+  "continuation": 99,
+  "institution": "Cambridge",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231348"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af0"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658292"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db51c"
+  },
+  "r2022": 3,
+  "r2021": 2,
+  "score": 96.8,
+  "course": 93.1,
+  "teaching": 92.3,
+  "feedback": 79.6,
+  "ratio": 11.1,
+  "spend": 7.3,
+  "tariff": 207,
+  "career": 84,
+  "continuation": 97,
+  "institution": "St Andrews",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231349"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af1"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658293"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db51d"
+  },
+  "r2022": 4,
+  "r2021": 5,
+  "score": 91.6,
+  "course": 80.1,
+  "teaching": 83.1,
+  "feedback": 70.2,
+  "ratio": 12.4,
+  "spend": 8.7,
+  "tariff": 175,
+  "career": 93,
+  "continuation": 97,
+  "institution": "London School of Economics",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231349"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af2"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658294"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db51e"
+  },
+  "r2022": 5,
+  "r2021": 4,
+  "score": 86.5,
+  "course": 83.9,
+  "teaching": 84.8,
+  "feedback": 69.5,
+  "ratio": 13.5,
+  "spend": 6.5,
+  "tariff": 182,
+  "career": 89,
+  "continuation": 97,
+  "institution": "Durham",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231350"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af3"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658294"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db51f"
+  },
+  "r2022": 6,
+  "r2021": 8,
+  "score": 85.3,
+  "course": 84.6,
+  "teaching": 85.1,
+  "feedback": 70.7,
+  "ratio": 12.8,
+  "spend": 7,
+  "tariff": 170,
+  "career": 88,
+  "continuation": 97,
+  "institution": "Warwick",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231350"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af4"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658295"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db520"
+  },
+  "r2022": 7,
+  "r2021": 9,
+  "score": 84.9,
+  "course": 83,
+  "teaching": 85,
+  "feedback": 62.2,
+  "ratio": 11.1,
+  "spend": 9.2,
+  "tariff": 197,
+  "career": 96,
+  "continuation": 96,
+  "institution": "Imperial College",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231351"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af5"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658296"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db521"
+  },
+  "r2022": 8,
+  "r2021": 6,
+  "score": 84.7,
+  "course": 87.1,
+  "teaching": 86,
+  "feedback": 63.2,
+  "ratio": 15.1,
+  "spend": 6.1,
+  "tariff": 167,
+  "career": 91,
+  "continuation": 97,
+  "institution": "Bath",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231351"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af6"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658297"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    },
+    {
+      "id": {
+        "$oid": "638ce17565664336c20b87eb"
+      },
+      "username": "rossg",
+      "text": "Great!",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670177141652"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638ce10d65664336c20b87e5",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1670177197318"
+        }
+      }
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db522"
+  },
+  "r2022": 9,
+  "r2021": 14,
+  "score": 82,
+  "course": 78.1,
+  "teaching": 81.2,
+  "feedback": 63.2,
+  "ratio": 10.1,
+  "spend": 7.8,
+  "tariff": 176,
+  "career": 89,
+  "continuation": 96,
+  "institution": "UCL",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231351"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af7"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658298"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db523"
+  },
+  "r2022": 10,
+  "r2021": 7,
+  "score": 81.5,
+  "course": 86.8,
+  "teaching": 84.8,
+  "feedback": 70.1,
+  "ratio": 13.5,
+  "spend": 5.1,
+  "tariff": 150,
+  "career": 85,
+  "continuation": 97,
+  "institution": "Loughborough",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231352"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af8"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658298"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    },
+    {
+      "id": {
+        "$oid": "638788a4e80806309d0d006a"
+      },
+      "username": "RossAngularTest1",
+      "text": "This looks good.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826724398"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1669841266802"
+        }
+      }
+    },
+    {
+      "id": {
+        "$oid": "638ce18f65664336c20b87ec"
+      },
+      "username": "rossg",
+      "text": "Loughborough University is a public research university in the market town of Loughborough,.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670177167584"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "rossg"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638ce10d65664336c20b87e5"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db524"
+  },
+  "r2022": 11,
+  "r2021": 12,
+  "score": 80.7,
+  "course": 85,
+  "teaching": 86.1,
+  "feedback": 65.3,
+  "ratio": 13.1,
+  "spend": 5.8,
+  "tariff": 202,
+  "career": 85,
+  "continuation": 94,
+  "institution": "Glasgow",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231352"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486af9"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658299"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db525"
+  },
+  "r2022": 12,
+  "r2021": 13,
+  "score": 79.3,
+  "course": 74.1,
+  "teaching": 82,
+  "feedback": 56,
+  "ratio": 11.7,
+  "spend": 8.8,
+  "tariff": 187,
+  "career": 84,
+  "continuation": 96,
+  "institution": "Edinburgh",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231353"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486afa"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658300"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db526"
+  },
+  "r2022": 13,
+  "r2021": 10,
+  "score": 78.8,
+  "course": 84.7,
+  "teaching": 84.9,
+  "feedback": 67.7,
+  "ratio": 13,
+  "spend": 7.7,
+  "tariff": 144,
+  "career": 84,
+  "continuation": 96,
+  "institution": "Lancaster",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231353"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486afb"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658301"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db527"
+  },
+  "r2022": 14,
+  "r2021": 11,
+  "score": 76.6,
+  "course": 78,
+  "teaching": 83.6,
+  "feedback": 62,
+  "ratio": 13.4,
+  "spend": 7,
+  "tariff": 164,
+  "career": 86,
+  "continuation": 97,
+  "institution": "Bristol",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231354"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486afc"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658301"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db528"
+  },
+  "r2022": 15,
+  "r2021": 16,
+  "score": 76,
+  "course": 80.8,
+  "teaching": 83.3,
+  "feedback": 64.5,
+  "ratio": 15.5,
+  "spend": 3.3,
+  "tariff": 156,
+  "career": 85,
+  "continuation": 97,
+  "institution": "Exeter",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231354"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486afd"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658302"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db529"
+  },
+  "r2022": 16,
+  "r2021": 18,
+  "score": 75.2,
+  "course": 78.8,
+  "teaching": 83,
+  "feedback": 64.7,
+  "ratio": 13.7,
+  "spend": 6.9,
+  "tariff": 159,
+  "career": 85,
+  "continuation": 96,
+  "institution": "Leeds",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231355"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486afe"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658303"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db52a"
+  },
+  "r2022": 17,
+  "r2021": 23,
+  "score": 74.8,
+  "course": 82.3,
+  "teaching": 84.2,
+  "feedback": 68.8,
+  "ratio": 13.2,
+  "spend": 6,
+  "tariff": 151,
+  "career": 84,
+  "continuation": 95,
+  "institution": "Southampton",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231355"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486aff"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658304"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db52b"
+  },
+  "r2022": 18,
+  "r2021": 16,
+  "score": 74.6,
+  "course": 81.6,
+  "teaching": 84.6,
+  "feedback": 69.2,
+  "ratio": 13.6,
+  "spend": 5.1,
+  "tariff": 149,
+  "career": 84,
+  "continuation": 97,
+  "institution": "York",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231356"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b00"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658305"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db52c"
+  },
+  "r2022": 18,
+  "r2021": 15,
+  "score": 74.6,
+  "course": 85.5,
+  "teaching": 86.3,
+  "feedback": 65.4,
+  "ratio": 18.9,
+  "spend": 6.6,
+  "tariff": 199,
+  "career": 86,
+  "continuation": 93,
+  "institution": "Strathclyde",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231356"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b01"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658305"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db52d"
+  },
+  "r2022": 20,
+  "r2021": 20,
+  "score": 74.5,
+  "course": 86.1,
+  "teaching": 85.3,
+  "feedback": 66.6,
+  "ratio": 15.7,
+  "spend": 4.8,
+  "tariff": 184,
+  "career": 82,
+  "continuation": 94,
+  "institution": "Aberdeen",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231357"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b02"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658306"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db52e"
+  },
+  "r2022": 21,
+  "r2021": 29,
+  "score": 74.3,
+  "course": 83,
+  "teaching": 86,
+  "feedback": 75,
+  "ratio": 14.9,
+  "spend": 3.4,
+  "tariff": 122,
+  "career": 74,
+  "continuation": 93,
+  "institution": "Chichester",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231358"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b03"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658307"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db52f"
+  },
+  "r2022": 22,
+  "r2021": 32,
+  "score": 74.1,
+  "course": 82.3,
+  "teaching": 83.3,
+  "feedback": 68.8,
+  "ratio": 15.1,
+  "spend": 5.1,
+  "tariff": 130,
+  "career": 79,
+  "continuation": 94,
+  "institution": "Royal Holloway",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231358"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b04"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658307"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db530"
+  },
+  "r2022": 23,
+  "r2021": 42,
+  "score": 73.8,
+  "course": 75.5,
+  "teaching": 80.5,
+  "feedback": 61.6,
+  "ratio": 11.7,
+  "spend": 7.7,
+  "tariff": 164,
+  "career": 90,
+  "continuation": 94,
+  "institution": "King's College London",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231359"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b05"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658308"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db531"
+  },
+  "r2022": 24,
+  "r2021": 24,
+  "score": 73.5,
+  "course": 86.2,
+  "teaching": 84.4,
+  "feedback": 71.4,
+  "ratio": 14.8,
+  "spend": 5.7,
+  "tariff": 130,
+  "career": 84,
+  "continuation": 94,
+  "institution": "Swansea",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231360"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b06"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658308"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db532"
+  },
+  "r2022": 25,
+  "r2021": 30,
+  "score": 73.3,
+  "course": 79.4,
+  "teaching": 80.8,
+  "feedback": 65.8,
+  "ratio": 15.8,
+  "spend": 6,
+  "tariff": 126,
+  "career": 83,
+  "continuation": 96,
+  "institution": "Aston",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231360"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b07"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658309"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db533"
+  },
+  "r2022": 26,
+  "r2021": 45,
+  "score": 73.2,
+  "course": 64.5,
+  "teaching": 73.1,
+  "feedback": 73.8,
+  "ratio": 12.8,
+  "spend": 9.8,
+  "tariff": 140,
+  "career": 65,
+  "continuation": 91,
+  "institution": "University of the Arts London",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231361"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b08"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658309"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db534"
+  },
+  "r2022": 27,
+  "r2021": 31,
+  "score": 72.8,
+  "course": 82.3,
+  "teaching": 84.1,
+  "feedback": 67.9,
+  "ratio": 14,
+  "spend": 4.9,
+  "tariff": 150,
+  "career": 84,
+  "continuation": 96,
+  "institution": "Sheffield",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231361"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b09"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658310"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db535"
+  },
+  "r2022": 28,
+  "r2021": 25,
+  "score": 72.4,
+  "course": 76,
+  "teaching": 80,
+  "feedback": 62.5,
+  "ratio": 13.1,
+  "spend": 8.1,
+  "tariff": 161,
+  "career": 85,
+  "continuation": 96,
+  "institution": "Manchester",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231362"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b0a"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658310"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db536"
+  },
+  "r2022": 29,
+  "r2021": 21,
+  "score": 72.3,
+  "course": 77.4,
+  "teaching": 81.5,
+  "feedback": 59.8,
+  "ratio": 14.7,
+  "spend": 6.8,
+  "tariff": 152,
+  "career": 87,
+  "continuation": 97,
+  "institution": "Birmingham",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231363"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b0b"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658311"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db537"
+  },
+  "r2022": 30,
+  "r2021": 77,
+  "score": 71.6,
+  "course": 79.9,
+  "teaching": 81.1,
+  "feedback": 67.3,
+  "ratio": 13.8,
+  "spend": 6,
+  "tariff": 129,
+  "career": 81,
+  "continuation": 96,
+  "institution": "Leicester",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231363"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b0c"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658311"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db538"
+  },
+  "r2022": 31,
+  "r2021": 19,
+  "score": 71.5,
+  "course": 82.5,
+  "teaching": 84.4,
+  "feedback": 66.5,
+  "ratio": 14.5,
+  "spend": 5.1,
+  "tariff": 177,
+  "career": 88,
+  "continuation": 94,
+  "institution": "Dundee",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231364"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b0d"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658312"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db539"
+  },
+  "r2022": 32,
+  "r2021": 33,
+  "score": 71.3,
+  "course": 72.4,
+  "teaching": 79.4,
+  "feedback": 76.6,
+  "ratio": 14.1,
+  "spend": 7.4,
+  "tariff": 134,
+  "career": 63,
+  "continuation": 91,
+  "institution": "University for the Creative Arts",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231364"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b0e"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658312"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db53a"
+  },
+  "r2022": 33,
+  "r2021": 46,
+  "score": 70.8,
+  "course": 79.8,
+  "teaching": 82.5,
+  "feedback": 64.3,
+  "ratio": 14.6,
+  "spend": 4.9,
+  "tariff": 148,
+  "career": 87,
+  "continuation": 95,
+  "institution": "Queen's, Belfast",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231365"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b0f"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658313"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db53b"
+  },
+  "r2022": 34,
+  "r2021": 52,
+  "score": 70.6,
+  "course": 82.8,
+  "teaching": 83.7,
+  "feedback": 71.6,
+  "ratio": 15.7,
+  "spend": 3.8,
+  "tariff": 117,
+  "career": 77,
+  "continuation": 94,
+  "institution": "Lincoln",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231365"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b10"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658313"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db53c"
+  },
+  "r2022": 35,
+  "r2021": 34,
+  "score": 70.5,
+  "course": 82.2,
+  "teaching": 86,
+  "feedback": 78,
+  "ratio": 15.9,
+  "spend": 6.1,
+  "tariff": 116,
+  "career": 72,
+  "continuation": 88,
+  "institution": "West London",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231366"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b11"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658314"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db53d"
+  },
+  "r2022": 36,
+  "r2021": 21,
+  "score": 70.4,
+  "course": 82.4,
+  "teaching": 83.9,
+  "feedback": 73.1,
+  "ratio": 15.8,
+  "spend": 4.1,
+  "tariff": 123,
+  "career": 80,
+  "continuation": 91,
+  "institution": "UWE Bristol",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231367"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b12"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658314"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db53e"
+  },
+  "r2022": 36,
+  "r2021": 35,
+  "score": 70.4,
+  "course": 81.8,
+  "teaching": 80.4,
+  "feedback": 62.8,
+  "ratio": 17.3,
+  "spend": 8.4,
+  "tariff": 170,
+  "career": 83,
+  "continuation": 91,
+  "institution": "Heriot-Watt",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231368"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b13"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658315"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db53f"
+  },
+  "r2022": 38,
+  "r2021": 26,
+  "score": 70.2,
+  "course": 79.3,
+  "teaching": 83.6,
+  "feedback": 72.3,
+  "ratio": 14.2,
+  "spend": 6.4,
+  "tariff": 112,
+  "career": 82,
+  "continuation": 90,
+  "institution": "Coventry",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231368"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b14"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658316"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db540"
+  },
+  "r2022": 38,
+  "r2021": 37,
+  "score": 70.2,
+  "course": 77,
+  "teaching": 80.6,
+  "feedback": 63.5,
+  "ratio": 13.7,
+  "spend": 6.7,
+  "tariff": 145,
+  "career": 85,
+  "continuation": 95,
+  "institution": "Cardiff",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231369"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b15"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658316"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db541"
+  },
+  "r2022": 40,
+  "r2021": 59,
+  "score": 70,
+  "course": 81.5,
+  "teaching": 83.4,
+  "feedback": 69.6,
+  "ratio": 13.9,
+  "spend": 7.6,
+  "tariff": 140,
+  "career": 83,
+  "continuation": 96,
+  "institution": "Liverpool",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231369"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b16"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658317"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db542"
+  },
+  "r2022": 41,
+  "r2021": 27,
+  "score": 69.6,
+  "course": 75.4,
+  "teaching": 78.6,
+  "feedback": 70.7,
+  "ratio": 15.5,
+  "spend": 4,
+  "tariff": 139,
+  "career": 78,
+  "continuation": 91,
+  "institution": "Northumbria",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231370"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b17"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658317"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db543"
+  },
+  "r2022": 41,
+  "r2021": 38,
+  "score": 69.6,
+  "course": 80.8,
+  "teaching": 83.3,
+  "feedback": 68.2,
+  "ratio": 13.2,
+  "spend": 4.2,
+  "tariff": 133,
+  "career": 82,
+  "continuation": 93,
+  "institution": "UEA",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231370"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b18"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658318"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db544"
+  },
+  "r2022": 41,
+  "r2021": 53,
+  "score": 69.6,
+  "course": 80.2,
+  "teaching": 83.7,
+  "feedback": 73.3,
+  "ratio": 17.1,
+  "spend": 5,
+  "tariff": 124,
+  "career": 80,
+  "continuation": 93,
+  "institution": "Plymouth",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231371"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b19"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658319"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db545"
+  },
+  "r2022": 44,
+  "r2021": 59,
+  "score": 68.9,
+  "course": 77.6,
+  "teaching": 80.7,
+  "feedback": 63.6,
+  "ratio": 17.4,
+  "spend": 6.3,
+  "tariff": 136,
+  "career": 80,
+  "continuation": 96,
+  "institution": "Sussex",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231371"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b1a"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658320"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db546"
+  },
+  "r2022": 45,
+  "r2021": 40,
+  "score": 68.8,
+  "course": 76.9,
+  "teaching": 80.4,
+  "feedback": 72.6,
+  "ratio": 17.6,
+  "spend": 5.8,
+  "tariff": 116,
+  "career": 75,
+  "continuation": 92,
+  "institution": "Kingston",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231372"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b1b"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658321"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db547"
+  },
+  "r2022": 46,
+  "r2021": 43,
+  "score": 68.7,
+  "course": 77,
+  "teaching": 78.7,
+  "feedback": 65.6,
+  "ratio": 14.2,
+  "spend": 4.7,
+  "tariff": 114,
+  "career": 81,
+  "continuation": 94,
+  "institution": "Oxford Brookes",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231372"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b1c"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658322"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db548"
+  },
+  "r2022": 46,
+  "r2021": 50,
+  "score": 68.7,
+  "course": 80.1,
+  "teaching": 85.1,
+  "feedback": 76.6,
+  "ratio": 14.5,
+  "spend": 8.4,
+  "tariff": 114,
+  "career": 69,
+  "continuation": 88,
+  "institution": "Bolton",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231373"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b1d"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658323"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db549"
+  },
+  "r2022": 48,
+  "r2021": 35,
+  "score": 68.5,
+  "course": 82.9,
+  "teaching": 83.6,
+  "feedback": 69.8,
+  "ratio": 14.8,
+  "spend": 4.2,
+  "tariff": 121,
+  "career": 81,
+  "continuation": 95,
+  "institution": "Keele",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231373"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b1e"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658324"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db54a"
+  },
+  "r2022": 49,
+  "r2021": 28,
+  "score": 68.4,
+  "course": 83.2,
+  "teaching": 85.2,
+  "feedback": 73.4,
+  "ratio": 15.8,
+  "spend": 3.1,
+  "tariff": 167,
+  "career": 81,
+  "continuation": 90,
+  "institution": "Stirling",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231374"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b1f"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658325"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db54b"
+  },
+  "r2022": 50,
+  "r2021": 82,
+  "score": 68.2,
+  "course": 79.8,
+  "teaching": 81.8,
+  "feedback": 68,
+  "ratio": 16.7,
+  "spend": 4.1,
+  "tariff": 125,
+  "career": 76,
+  "continuation": 95,
+  "institution": "Kent",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231374"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b20"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658326"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db54c"
+  },
+  "r2022": 51,
+  "r2021": 68,
+  "score": 67.7,
+  "course": 77.8,
+  "teaching": 80.2,
+  "feedback": 61.4,
+  "ratio": 13,
+  "spend": 5.6,
+  "tariff": 146,
+  "career": 83,
+  "continuation": 94,
+  "institution": "Queen Mary",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231375"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b21"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658327"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db54d"
+  },
+  "r2022": 52,
+  "r2021": 38,
+  "score": 67.6,
+  "course": 78.9,
+  "teaching": 82.8,
+  "feedback": 63.8,
+  "ratio": 14.8,
+  "spend": 6.4,
+  "tariff": 146,
+  "career": 87,
+  "continuation": 96,
+  "institution": "Nottingham",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231375"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b22"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658328"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db54e"
+  },
+  "r2022": 53,
+  "r2021": 72,
+  "score": 67.3,
+  "course": 80.6,
+  "teaching": 82.2,
+  "feedback": 72.2,
+  "ratio": 15.5,
+  "spend": 4.5,
+  "tariff": 124,
+  "career": 78,
+  "continuation": 91,
+  "institution": "Hull",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231376"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b23"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658329"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db54f"
+  },
+  "r2022": 54,
+  "r2021": 64,
+  "score": 67.2,
+  "course": 73.5,
+  "teaching": 77,
+  "feedback": 71.7,
+  "ratio": 13.7,
+  "spend": 4.6,
+  "tariff": 121,
+  "career": 75,
+  "continuation": 91,
+  "institution": "Huddersfield",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231376"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b24"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658330"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db550"
+  },
+  "r2022": 55,
+  "r2021": 41,
+  "score": 67.1,
+  "course": 80,
+  "teaching": 80.3,
+  "feedback": 73.8,
+  "ratio": 15.3,
+  "spend": 4.3,
+  "tariff": 120,
+  "career": 75,
+  "continuation": 93,
+  "institution": "Nottingham Trent",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231377"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b25"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658331"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db551"
+  },
+  "r2022": 55,
+  "r2021": 51,
+  "score": 67.1,
+  "course": 75.5,
+  "teaching": 79.9,
+  "feedback": 60.4,
+  "ratio": 14.9,
+  "spend": 5.8,
+  "tariff": 144,
+  "career": 84,
+  "continuation": 96,
+  "institution": "Newcastle",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231377"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b26"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658332"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db552"
+  },
+  "r2022": 57,
+  "r2021": 54,
+  "score": 67,
+  "course": 80.1,
+  "teaching": 81.8,
+  "feedback": 65.6,
+  "ratio": 16.7,
+  "spend": 4.6,
+  "tariff": 136,
+  "career": 87,
+  "continuation": 94,
+  "institution": "Surrey",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231378"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b27"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658333"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db553"
+  },
+  "r2022": 58,
+  "r2021": 61,
+  "score": 66.9,
+  "course": 82,
+  "teaching": 81.4,
+  "feedback": 71.1,
+  "ratio": 18.9,
+  "spend": 4.4,
+  "tariff": 126,
+  "career": 79,
+  "continuation": 92,
+  "institution": "Ulster",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231378"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b28"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658334"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [
+        "belfast_student_18",
+        "conor_uni"
+      ],
+      "laughReactions": [],
+      "angryReactions": [
+        "darren_man_1996"
+      ],
+      "userid": "63654f75f0b1692c26035e16"
+    },
+    {
+      "id": {
+        "$oid": "638b36d0afb743692b914a51"
+      },
+      "username": "belfast_student_18",
+      "text": "My brother went to this Ulster and seemed to enjoy it. I’m strongly considering going here.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670067920316"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638b367cafb743692b914a4e"
+    },
+    {
+      "id": {
+        "$oid": "638b3786afb743692b914a54"
+      },
+      "username": "conor_uni",
+      "text": "Anyone know what the Computer Science degree is like?",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670068102295"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [
+        "conor_uni",
+        "darren_man_1996"
+      ],
+      "angryReactions": [],
+      "userid": "638b3748afb743692b914a53"
+    },
+    {
+      "id": {
+        "$oid": "638b383bafb743692b914a58"
+      },
+      "username": "darren_man_1996",
+      "text": "Computer Science is tough but rewarding.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670068283492"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "darren_man_1996",
+        "conor_uni"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638b37f1afb743692b914a57"
+    },
+    {
+      "id": {
+        "$oid": "638b3870afb743692b914a5a"
+      },
+      "username": "conor_uni",
+      "text": "Thank you darren_man",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670068336697"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "conor_uni"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638b3748afb743692b914a53"
+    },
+    {
+      "id": {
+        "$oid": "638b3890afb743692b914a5b"
+      },
+      "username": "conor_uni",
+      "text": "Just got an offer for this college. Can't wait to start!",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670068368882"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "conor_uni"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638b3748afb743692b914a53"
+    },
+    {
+      "id": {
+        "$oid": "638b38c7afb743692b914a5d"
+      },
+      "username": "darren_man_1996",
+      "text": "Congrats Conor!",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670068423832"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [
+        "darren_man_1996"
+      ],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638b37f1afb743692b914a57"
+    },
+    {
+      "id": {
+        "$oid": "638cd1945ba2f685f63d35b3"
+      },
+      "username": "RossAngularTest1",
+      "text": "Good uni!",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670173076578"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cd5085ba2f685f63d35b7"
+      },
+      "username": "SlimShady",
+      "text": "Looks good.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670173960026"
+        }
+      },
+      "isEdited": true,
+      "likeReactions": [],
+      "laughReactions": [
+        "RossAngularTest1"
+      ],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30",
+      "uptdTimestamp": {
+        "$date": {
+          "$numberLong": "1670173976684"
+        }
+      }
+    },
+    {
+      "id": {
+        "$oid": "638cd5f75ba2f685f63d35ba"
+      },
+      "username": "jay_z",
+      "text": "Yeah, I like this place better than Oxford and Cambridge combined!",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670174199976"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [
+        "RossAngularTest1"
+      ],
+      "angryReactions": [],
+      "userid": "638615e4ad521e9d9918ac30"
+    },
+    {
+      "id": {
+        "$oid": "638cda3865664336c20b87d5"
+      },
+      "username": "conor_uni",
+      "text": "Yes agreed",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1670175288734"
+        }
+      },
+      "isEdited": false,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "638b3748afb743692b914a53"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db554"
+  },
+  "r2022": 59,
+  "r2021": 47,
+  "score": 66.8,
+  "course": 76.5,
+  "teaching": 80.9,
+  "feedback": 69.6,
+  "ratio": 17.2,
+  "spend": 5.5,
+  "tariff": 115,
+  "career": 80,
+  "continuation": 92,
+  "institution": "Sheffield Hallam",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231379"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b29"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658334"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db555"
+  },
+  "r2022": 59,
+  "r2021": 56,
+  "score": 66.8,
+  "course": 81,
+  "teaching": 84.2,
+  "feedback": 76.1,
+  "ratio": 14.7,
+  "spend": 6.1,
+  "tariff": 115,
+  "career": 72,
+  "continuation": 90,
+  "institution": "Derby",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231379"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b2a"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658336"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db556"
+  },
+  "r2022": 61,
+  "r2021": 62,
+  "score": 66.5,
+  "course": 78.9,
+  "teaching": 80.6,
+  "feedback": 65.6,
+  "ratio": 16.4,
+  "spend": 4.8,
+  "tariff": 122,
+  "career": 81,
+  "continuation": 94,
+  "institution": "Reading",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231380"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b2b"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658337"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db557"
+  },
+  "r2022": 62,
+  "r2021": 70,
+  "score": 65.9,
+  "course": 76.3,
+  "teaching": 78.5,
+  "feedback": 71.8,
+  "ratio": 16,
+  "spend": 5.1,
+  "tariff": 128,
+  "career": 71,
+  "continuation": 92,
+  "institution": "Manchester Met",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231381"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b2c"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658338"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db558"
+  },
+  "r2022": 62,
+  "r2021": 72,
+  "score": 65.9,
+  "course": 80.4,
+  "teaching": 81.1,
+  "feedback": 71.9,
+  "ratio": 18.5,
+  "spend": 4.3,
+  "tariff": 123,
+  "career": 78,
+  "continuation": 89,
+  "institution": "Cardiff Met",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231381"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b2d"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658339"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db559"
+  },
+  "r2022": 64,
+  "r2021": 85,
+  "score": 65.5,
+  "course": 76.6,
+  "teaching": 78.3,
+  "feedback": 67.2,
+  "ratio": 15.5,
+  "spend": 6.4,
+  "tariff": 115,
+  "career": 78,
+  "continuation": 91,
+  "institution": "Essex",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231382"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b2e"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658340"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db55a"
+  },
+  "r2022": 64,
+  "r2021": 49,
+  "score": 65.5,
+  "course": 86.6,
+  "teaching": 87.1,
+  "feedback": 81.2,
+  "ratio": 16,
+  "spend": 5.8,
+  "tariff": 118,
+  "career": 71,
+  "continuation": 93,
+  "institution": "Aberystwyth",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231382"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b2f"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658341"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db55b"
+  },
+  "r2022": 66,
+  "r2021": 107,
+  "score": 65.3,
+  "course": 78.1,
+  "teaching": 87.2,
+  "feedback": 80.3,
+  "ratio": 21.9,
+  "spend": 2.2,
+  "tariff": 117,
+  "career": 73,
+  "continuation": 88,
+  "institution": "Glyndwr",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231382"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b30"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658342"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db55c"
+  },
+  "r2022": 67,
+  "r2021": 83,
+  "score": 65.2,
+  "course": 76.4,
+  "teaching": 80.5,
+  "feedback": 73.9,
+  "ratio": 16.5,
+  "spend": 6.4,
+  "tariff": 118,
+  "career": 75,
+  "continuation": 90,
+  "institution": "Birmingham City",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231383"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b31"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658343"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db55d"
+  },
+  "r2022": 67,
+  "r2021": 97,
+  "score": 65.2,
+  "course": 73.7,
+  "teaching": 81.7,
+  "feedback": 71.8,
+  "ratio": 16.5,
+  "spend": 6.4,
+  "tariff": 112,
+  "career": 80,
+  "continuation": 87,
+  "institution": "Suffolk",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231383"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b32"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658343"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db55e"
+  },
+  "r2022": 69,
+  "r2021": 77,
+  "score": 65,
+  "course": 82.1,
+  "teaching": 82.3,
+  "feedback": 70.3,
+  "ratio": 22.3,
+  "spend": 2.8,
+  "tariff": 159,
+  "career": 77,
+  "continuation": 91,
+  "institution": "Glasgow Caledonian",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231384"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b33"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658344"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db55f"
+  },
+  "r2022": 70,
+  "r2021": 75,
+  "score": 64.9,
+  "course": 75.9,
+  "teaching": 78.7,
+  "feedback": 71.3,
+  "ratio": 14.3,
+  "spend": 3.8,
+  "tariff": 129,
+  "career": 75,
+  "continuation": 92,
+  "institution": "Edge Hill",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231384"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b34"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658345"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db560"
+  },
+  "r2022": 71,
+  "r2021": 88,
+  "score": 64.7,
+  "course": 78.1,
+  "teaching": 81.2,
+  "feedback": 73.1,
+  "ratio": 17.3,
+  "spend": 5.3,
+  "tariff": 116,
+  "career": 69,
+  "continuation": 91,
+  "institution": "Gloucestershire",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231385"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b35"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658345"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db561"
+  },
+  "r2022": 72,
+  "r2021": 55,
+  "score": 64.6,
+  "course": 79.6,
+  "teaching": 84,
+  "feedback": 77.2,
+  "ratio": 17.7,
+  "spend": 5.8,
+  "tariff": 118,
+  "career": 71,
+  "continuation": 89,
+  "institution": "Staffordshire",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231386"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b36"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658346"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db562"
+  },
+  "r2022": 73,
+  "r2021": 62,
+  "score": 64.5,
+  "course": 83.5,
+  "teaching": 83.7,
+  "feedback": 74.2,
+  "ratio": 19.9,
+  "spend": 4.3,
+  "tariff": 149,
+  "career": 78,
+  "continuation": 89,
+  "institution": "Edinburgh Napier",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231386"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b37"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658347"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db563"
+  },
+  "r2022": 74,
+  "r2021": 56,
+  "score": 64.4,
+  "course": 78.1,
+  "teaching": 83.7,
+  "feedback": 77.8,
+  "ratio": 18.8,
+  "spend": 4.2,
+  "tariff": 134,
+  "career": 62,
+  "continuation": 88,
+  "institution": "Trinity Saint David",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231387"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b38"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658348"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db564"
+  },
+  "r2022": 75,
+  "r2021": 70,
+  "score": 64.3,
+  "course": 78.6,
+  "teaching": 79.3,
+  "feedback": 69,
+  "ratio": 17.3,
+  "spend": 3.1,
+  "tariff": 143,
+  "career": 73,
+  "continuation": 91,
+  "institution": "Liverpool John Moores",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231388"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b39"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658348"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db565"
+  },
+  "r2022": 75,
+  "r2021": 66,
+  "score": 64.3,
+  "course": 78.4,
+  "teaching": 80.1,
+  "feedback": 70.4,
+  "ratio": 16.3,
+  "spend": 6.6,
+  "tariff": 110,
+  "career": 76,
+  "continuation": 91,
+  "institution": "Portsmouth",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231388"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b3a"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658349"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db566"
+  },
+  "r2022": 77,
+  "r2021": 92,
+  "score": 64.2,
+  "course": 75.3,
+  "teaching": 79.9,
+  "feedback": 72.7,
+  "ratio": 17.4,
+  "spend": 7.4,
+  "tariff": 109,
+  "career": 74,
+  "continuation": 87,
+  "institution": "Bucks New University",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231389"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b3b"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658349"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db567"
+  },
+  "r2022": 77,
+  "r2021": 86,
+  "score": 64.2,
+  "course": 76.3,
+  "teaching": 82.8,
+  "feedback": 65.4,
+  "ratio": 12.8,
+  "spend": 8.1,
+  "tariff": 148,
+  "career": 71,
+  "continuation": 88,
+  "institution": "SOAS",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231389"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b3c"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658350"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db568"
+  },
+  "r2022": 79,
+  "r2021": 99,
+  "score": 64.1,
+  "course": 76,
+  "teaching": 79.6,
+  "feedback": 68.8,
+  "ratio": 18.7,
+  "spend": 2.6,
+  "tariff": 123,
+  "career": 79,
+  "continuation": 91,
+  "institution": "Bradford",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231390"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b3d"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658351"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db569"
+  },
+  "r2022": 80,
+  "r2021": 68,
+  "score": 64,
+  "course": 74.7,
+  "teaching": 81.4,
+  "feedback": 74.3,
+  "ratio": 17.9,
+  "spend": 5.6,
+  "tariff": 113,
+  "career": 82,
+  "continuation": 89,
+  "institution": "Teesside",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231390"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b3e"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658351"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db56a"
+  },
+  "r2022": 80,
+  "r2021": 81,
+  "score": 64,
+  "course": 79.3,
+  "teaching": 81.1,
+  "feedback": 74.7,
+  "ratio": 14.7,
+  "spend": 4.4,
+  "tariff": 116,
+  "career": 72,
+  "continuation": 89,
+  "institution": "Chester",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231390"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b3f"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658352"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db56b"
+  },
+  "r2022": 82,
+  "r2021": 66,
+  "score": 63.9,
+  "course": 75.5,
+  "teaching": 80.9,
+  "feedback": 73.4,
+  "ratio": 14.7,
+  "spend": 5.5,
+  "tariff": 113,
+  "career": 73,
+  "continuation": 91,
+  "institution": "South Wales",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231391"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b40"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658353"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db56c"
+  },
+  "r2022": 83,
+  "r2021": 43,
+  "score": 63.3,
+  "course": 86.7,
+  "teaching": 85.1,
+  "feedback": 74.6,
+  "ratio": 18.7,
+  "spend": 3.2,
+  "tariff": 153,
+  "career": 81,
+  "continuation": 90,
+  "institution": "Robert Gordon",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231392"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b41"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658354"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db56d"
+  },
+  "r2022": 84,
+  "r2021": 91,
+  "score": 62.7,
+  "course": 81.1,
+  "teaching": 83.6,
+  "feedback": 77.1,
+  "ratio": 18.1,
+  "spend": 3.4,
+  "tariff": 108,
+  "career": 71,
+  "continuation": 92,
+  "institution": "York St John",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231392"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b42"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658356"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db56e"
+  },
+  "r2022": 85,
+  "r2021": 65,
+  "score": 62.2,
+  "course": 80.4,
+  "teaching": 84.7,
+  "feedback": 71.4,
+  "ratio": 20.8,
+  "spend": 2,
+  "tariff": 160,
+  "career": 74,
+  "continuation": 89,
+  "institution": "Queen Margaret",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231392"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b43"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658356"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db56f"
+  },
+  "r2022": 86,
+  "r2021": 75,
+  "score": 61.6,
+  "course": 79.7,
+  "teaching": 81.6,
+  "feedback": 72.5,
+  "ratio": 15.9,
+  "spend": 3.1,
+  "tariff": 120,
+  "career": 77,
+  "continuation": 91,
+  "institution": "Bangor",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231393"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b44"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658358"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db570"
+  },
+  "r2022": 87,
+  "r2021": 118,
+  "score": 61.3,
+  "course": 80.1,
+  "teaching": 83.4,
+  "feedback": 77.3,
+  "ratio": 18.5,
+  "spend": 5.6,
+  "tariff": 100,
+  "career": 66,
+  "continuation": 82,
+  "institution": "London Met",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231393"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b45"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658359"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db571"
+  },
+  "r2022": 88,
+  "r2021": 48,
+  "score": 61.2,
+  "course": 83,
+  "teaching": 86.1,
+  "feedback": 76.4,
+  "ratio": 22.4,
+  "spend": 2,
+  "tariff": 144,
+  "career": 71,
+  "continuation": 88,
+  "institution": "Abertay",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231394"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b46"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658360"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db572"
+  },
+  "r2022": 89,
+  "r2021": 56,
+  "score": 61.1,
+  "course": 70.7,
+  "teaching": 77.1,
+  "feedback": 65.7,
+  "ratio": 18.6,
+  "spend": 4.5,
+  "tariff": 110,
+  "career": 81,
+  "continuation": 92,
+  "institution": "Bournemouth",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231394"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b47"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658361"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db573"
+  },
+  "r2022": 90,
+  "r2021": 103,
+  "score": 61,
+  "course": 78,
+  "teaching": 80,
+  "feedback": 70.2,
+  "ratio": 15.6,
+  "spend": 4,
+  "tariff": 103,
+  "career": 75,
+  "continuation": 91,
+  "institution": "Hertfordshire",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231395"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b48"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658362"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db574"
+  },
+  "r2022": 91,
+  "r2021": 109,
+  "score": 60.8,
+  "course": 75.4,
+  "teaching": 80,
+  "feedback": 71.1,
+  "ratio": 18,
+  "spend": 5.5,
+  "tariff": 106,
+  "career": 68,
+  "continuation": 91,
+  "institution": "Bath Spa",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231395"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b49"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658362"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db575"
+  },
+  "r2022": 92,
+  "r2021": 87,
+  "score": 60.6,
+  "course": 81.7,
+  "teaching": 84.3,
+  "feedback": 75.5,
+  "ratio": 16.9,
+  "spend": 3.9,
+  "tariff": 114,
+  "career": 76,
+  "continuation": 90,
+  "institution": "Worcester",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231396"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b4a"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658364"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db576"
+  },
+  "r2022": 92,
+  "r2021": 100,
+  "score": 60.6,
+  "course": 80.8,
+  "teaching": 83.1,
+  "feedback": 74,
+  "ratio": 15.5,
+  "spend": 7,
+  "tariff": 115,
+  "career": 72,
+  "continuation": 87,
+  "institution": "Sunderland",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231396"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b4b"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658365"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db577"
+  },
+  "r2022": 94,
+  "r2021": 95,
+  "score": 60.5,
+  "course": 75.3,
+  "teaching": 78.7,
+  "feedback": 71.2,
+  "ratio": 18.5,
+  "spend": 3.5,
+  "tariff": 115,
+  "career": 77,
+  "continuation": 91,
+  "institution": "Greenwich",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231397"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b4c"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658368"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db578"
+  },
+  "r2022": 94,
+  "r2021": 103,
+  "score": 60.5,
+  "course": 73.1,
+  "teaching": 77.4,
+  "feedback": 71.3,
+  "ratio": 16.8,
+  "spend": 4,
+  "tariff": 126,
+  "career": 78,
+  "continuation": 90,
+  "institution": "Salford",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231398"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b4d"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658369"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db579"
+  },
+  "r2022": 96,
+  "r2021": 116,
+  "score": 60.3,
+  "course": 74.5,
+  "teaching": 77.3,
+  "feedback": 68.6,
+  "ratio": 15.2,
+  "spend": 5.7,
+  "tariff": 100,
+  "career": 67,
+  "continuation": 89,
+  "institution": "Roehampton",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231398"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b4e"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658370"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db57a"
+  },
+  "r2022": 97,
+  "r2021": 80,
+  "score": 60.1,
+  "course": 78,
+  "teaching": 82.2,
+  "feedback": 73,
+  "ratio": 20,
+  "spend": 7.7,
+  "tariff": 107,
+  "career": 77,
+  "continuation": 88,
+  "institution": "Anglia Ruskin",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231399"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b4f"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658371"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db57b"
+  },
+  "r2022": 97,
+  "r2021": 84,
+  "score": 60.1,
+  "course": 78.4,
+  "teaching": 81.4,
+  "feedback": 74.7,
+  "ratio": 14.8,
+  "spend": 2.2,
+  "tariff": 113,
+  "career": 67,
+  "continuation": 89,
+  "institution": "Liverpool Hope",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231399"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b50"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658372"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db57c"
+  },
+  "r2022": 97,
+  "r2021": 74,
+  "score": 60.1,
+  "course": 77.5,
+  "teaching": 81.6,
+  "feedback": 73.4,
+  "ratio": 16.1,
+  "spend": 3.5,
+  "tariff": 110,
+  "career": 70,
+  "continuation": 89,
+  "institution": "Solent",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231400"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b51"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658373"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db57d"
+  },
+  "r2022": 97,
+  "r2021": 79,
+  "score": 60.1,
+  "course": 71.7,
+  "teaching": 77.4,
+  "feedback": 71.9,
+  "ratio": 14.3,
+  "spend": 5.5,
+  "tariff": 123,
+  "career": 76,
+  "continuation": 88,
+  "institution": "Central Lancashire",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231400"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b52"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658374"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db57e"
+  },
+  "r2022": 101,
+  "r2021": 90,
+  "score": 59.8,
+  "course": 73.1,
+  "teaching": 78.2,
+  "feedback": 71.4,
+  "ratio": 16.8,
+  "spend": {
+    "$numberDouble": "NaN"
+  },
+  "tariff": 102,
+  "career": 74,
+  "continuation": 88,
+  "institution": "Northampton",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231401"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b53"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658375"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db57f"
+  },
+  "r2022": 102,
+  "r2021": 102,
+  "score": 59.6,
+  "course": 69.3,
+  "teaching": 77.2,
+  "feedback": 65.6,
+  "ratio": 16.7,
+  "spend": 5.1,
+  "tariff": 108,
+  "career": 80,
+  "continuation": 90,
+  "institution": "Brighton",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231405"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b54"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658377"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db580"
+  },
+  "r2022": 103,
+  "r2021": 88,
+  "score": 59.3,
+  "course": 75.4,
+  "teaching": 79.1,
+  "feedback": 72.8,
+  "ratio": 15.3,
+  "spend": 5.1,
+  "tariff": 123,
+  "career": 67,
+  "continuation": 89,
+  "institution": "Falmouth",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231406"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b55"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658378"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db581"
+  },
+  "r2022": 104,
+  "r2021": 95,
+  "score": 59,
+  "course": 70.8,
+  "teaching": 75,
+  "feedback": 60.4,
+  "ratio": 17.6,
+  "spend": 7.2,
+  "tariff": 131,
+  "career": 81,
+  "continuation": 90,
+  "institution": "City",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231406"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b56"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658379"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db582"
+  },
+  "r2022": 104,
+  "r2021": 101,
+  "score": 59,
+  "course": 82.3,
+  "teaching": 85,
+  "feedback": 72.1,
+  "ratio": 18,
+  "spend": 2.5,
+  "tariff": 105,
+  "career": 74,
+  "continuation": 89,
+  "institution": "St Mary's, Twickenham",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231407"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b57"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658379"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db583"
+  },
+  "r2022": 106,
+  "r2021": 112,
+  "score": 58.7,
+  "course": 75,
+  "teaching": 81.1,
+  "feedback": 71.3,
+  "ratio": 17,
+  "spend": 6.2,
+  "tariff": 104,
+  "career": 70,
+  "continuation": 86,
+  "institution": "Wolverhampton",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231408"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b58"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658380"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db584"
+  },
+  "r2022": 107,
+  "r2021": 105,
+  "score": 58.6,
+  "course": 64.2,
+  "teaching": 75.3,
+  "feedback": 60.9,
+  "ratio": 14.3,
+  "spend": 0,
+  "tariff": 127,
+  "career": 69,
+  "continuation": 88,
+  "institution": "Goldsmiths",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231409"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b59"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658381"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db585"
+  },
+  "r2022": 107,
+  "r2021": 94,
+  "score": 58.6,
+  "course": 75.1,
+  "teaching": 80.5,
+  "feedback": 69.9,
+  "ratio": 17.4,
+  "spend": 2.8,
+  "tariff": 107,
+  "career": 71,
+  "continuation": 92,
+  "institution": "Winchester",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231410"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b5a"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658381"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db586"
+  },
+  "r2022": 109,
+  "r2021": 106,
+  "score": 57.8,
+  "course": 79.7,
+  "teaching": 81.4,
+  "feedback": 72.8,
+  "ratio": 20,
+  "spend": 4,
+  "tariff": 104,
+  "career": 73,
+  "continuation": 87,
+  "institution": "Leeds Beckett",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231411"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b5b"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658382"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db587"
+  },
+  "r2022": 110,
+  "r2021": 117,
+  "score": 57,
+  "course": 75.5,
+  "teaching": 77.1,
+  "feedback": 67.3,
+  "ratio": 20.9,
+  "spend": 3.9,
+  "tariff": 118,
+  "career": 69,
+  "continuation": 91,
+  "institution": "Westminster",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231411"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b5c"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658382"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db588"
+  },
+  "r2022": 110,
+  "r2021": 98,
+  "score": 57,
+  "course": 75.2,
+  "teaching": 80.2,
+  "feedback": 71.9,
+  "ratio": 16.6,
+  "spend": 4.2,
+  "tariff": 118,
+  "career": 78,
+  "continuation": 91,
+  "institution": "Cumbria",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231412"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b5d"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658383"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db589"
+  },
+  "r2022": 112,
+  "r2021": 111,
+  "score": 56.1,
+  "course": 72.8,
+  "teaching": 75.3,
+  "feedback": 68.7,
+  "ratio": 17.5,
+  "spend": 5.7,
+  "tariff": 105,
+  "career": 68,
+  "continuation": 89,
+  "institution": "Middlesex",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231412"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b5e"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658383"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db58a"
+  },
+  "r2022": 113,
+  "r2021": 93,
+  "score": 55.9,
+  "course": 73.7,
+  "teaching": 77.3,
+  "feedback": 69.4,
+  "ratio": 16.8,
+  "spend": 5.6,
+  "tariff": 101,
+  "career": 75,
+  "continuation": 88,
+  "institution": "London South Bank",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231413"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b5f"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658384"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db58b"
+  },
+  "r2022": 114,
+  "r2021": 112,
+  "score": 55.2,
+  "course": 75.1,
+  "teaching": 79.7,
+  "feedback": 72.1,
+  "ratio": 21.9,
+  "spend": 2.8,
+  "tariff": 96,
+  "career": 66,
+  "continuation": 89,
+  "institution": "East London",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231413"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b60"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658385"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db58c"
+  },
+  "r2022": 114,
+  "r2021": 108,
+  "score": 55.2,
+  "course": 81.2,
+  "teaching": 83.7,
+  "feedback": 77.1,
+  "ratio": 17.7,
+  "spend": 4.9,
+  "tariff": 103,
+  "career": 68,
+  "continuation": 88,
+  "institution": "Newman",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231414"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b61"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658385"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db58d"
+  },
+  "r2022": 116,
+  "r2021": 110,
+  "score": 54.7,
+  "course": 67.9,
+  "teaching": 72.4,
+  "feedback": 59,
+  "ratio": 17,
+  "spend": 3.4,
+  "tariff": 118,
+  "career": 79,
+  "continuation": 93,
+  "institution": "Brunel",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231414"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b62"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658386"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db58e"
+  },
+  "r2022": 117,
+  "r2021": 115,
+  "score": 53.2,
+  "course": 72.7,
+  "teaching": 78,
+  "feedback": 69.8,
+  "ratio": 22.9,
+  "spend": 4.3,
+  "tariff": 103,
+  "career": 71,
+  "continuation": 87,
+  "institution": "Leeds Trinity",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231415"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b63"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658387"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db58f"
+  },
+  "r2022": 118,
+  "r2021": 119,
+  "score": 52.5,
+  "course": 71.6,
+  "teaching": 74.3,
+  "feedback": 65.1,
+  "ratio": 20.2,
+  "spend": 3.1,
+  "tariff": 105,
+  "career": 76,
+  "continuation": 89,
+  "institution": "De Montfort",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231416"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b64"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658389"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db590"
+  },
+  "r2022": 119,
+  "r2021": 114,
+  "score": 52.2,
+  "course": 71.1,
+  "teaching": 80.4,
+  "feedback": 70.8,
+  "ratio": 16.4,
+  "spend": 3.3,
+  "tariff": 96,
+  "career": 75,
+  "continuation": 87,
+  "institution": "Canterbury Christ Church",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231416"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b65"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658391"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db591"
+  },
+  "r2022": 120,
+  "r2021": 120,
+  "score": 51.1,
+  "course": 79.2,
+  "teaching": 81.8,
+  "feedback": 70.1,
+  "ratio": 20.9,
+  "spend": 3.3,
+  "tariff": 136,
+  "career": 74,
+  "continuation": 86,
+  "institution": "West of Scotland",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231417"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b66"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658392"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ]
+},{
+  "id": {
+    "$oid": "636cd811b87f592d5d9db592"
+  },
+  "r2022": 121,
+  "r2021": 121,
+  "score": 34,
+  "course": 70.7,
+  "teaching": 79.3,
+  "feedback": 68.4,
+  "ratio": 26.3,
+  "spend": 4.2,
+  "tariff": 104,
+  "career": 74,
+  "continuation": 80,
+  "institution": "Bedfordshire 2",
+  "crtdTimestamp": {
+    "$date": {
+      "$numberLong": "1668078231418"
+    }
+  },
+  "updtTimestamp": null,
+  "comments": [
+    {
+      "id": {
+        "$oid": "63878862bc85d58ca3486b67"
+      },
+      "username": "JohnCoffeeLover",
+      "text": "Interesting. Thanks.",
+      "sentDateTime": {
+        "$date": {
+          "$numberLong": "1669826658393"
+        }
+      },
+      "uptdTimestamp": null,
+      "likeReactions": [],
+      "laughReactions": [],
+      "angryReactions": [],
+      "userid": "63654f75f0b1692c26035e16"
+    }
+  ],
+  "uptdTimestamp": {
+    "$date": {
+      "$numberLong": "1670324688017"
+    }
+  }
+}]
