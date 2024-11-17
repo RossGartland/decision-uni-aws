@@ -1,3 +1,33 @@
+Decision University Platform - AWS Refactor
+
+Decision University is a platform designed to assist prospective students in browsing and comparing universities using data from the Guardian University Rankings dataset. This application was initially created as a Python Flask API for a university project. The original version can be found on GitHub: decision-university-api.
+Purpose of the Refactor
+
+As part of my journey into AWS and serverless technologies, I decided to refactor the existing Python Flask API into a cloud-native architecture using AWS Lambda and other AWS tools. This transition not only modernizes the platform but also improves scalability, reliability, and cost efficiency.
+Architecture Overview
+
+The application leverages the following AWS services:
+
+    AWS S3:
+        Hosts the Angular front-end UI.
+        Stores static assets such as images and website files.
+
+    Angular UI:
+        A responsive user interface that provides a seamless experience for browsing and comparing universities.
+        Connects to the backend via AWS API Gateway.
+
+    AWS API Gateway:
+        Serves as the entry point for the API, routing requests to the appropriate AWS Lambda functions.
+
+    AWS Lambda:
+        Implements the backend logic in Python.
+        Processes requests and interacts with the database.
+
+    DynamoDB:
+        A fast and reliable NoSQL database to store and manage university ranking data.
+
+
+
 
 # Welcome to your CDK Python project!
 
